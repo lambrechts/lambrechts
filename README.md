@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @lambrechts
-- 👀 I’m a data journalist at Bergens Tidende. A regional newspaper i Norway.
+- 👨 My name is Lasse Lambrechts, i live in Bergen, Norway
+- 👀 I’m a data journalist at Bergens Tidende. A regional newspaper for Bergen and Vestland county.
 - 🌱 I’m currently learning about life, the universe and everything.
 - 📫 How to reach me lasse.lambrechts@bt.no
 
